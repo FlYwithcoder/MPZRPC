@@ -1,5 +1,7 @@
 #include<iostream>
-void sort(int *){}
+void sort(int *){
+	//没动，骗你的！
+}
 
 int main(){
 	int *array = {1,2,3,4,5,6,7};
