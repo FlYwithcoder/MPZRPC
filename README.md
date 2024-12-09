@@ -3,9 +3,9 @@ muduo &amp;&amp; protobuf &amp; rpc
 
 ## 背景
 #### 集群的缺点：
-~~~
-    ![alt text](image.png)
-~~~
+
+![image](https://raw.githubusercontent.com/FlYwithcoder/MPZRPC/refs/heads/main/image.png)
+
 1、项目代码任意模块的修改都会导致整个项目代码重新编译，部署。
 
 2、系统中有些模块是属于CPU密集型（计算量大的），有些模块是属于I/O密集型的（接触 输入输出，网络I/O），造成各模块对硬件资源的需求是不一样。
