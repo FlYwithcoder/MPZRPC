@@ -16,3 +16,8 @@ muduo &amp;&amp; protobuf &amp; rpc
 2、假设后台管理模块出问题，我只需要把server3这台机器的后台模块重新更新就可以了，其他模块不需要更新。
 
 3、把CPU密集型的模块部署在CPU资源好的机器上。把内存小的模块部署在硬盘资源少的机器上。把I/O密集型的模块部署在CPU不是很好的机器上。
+
+## 项目整体框架
+![image](https://github.com/user-attachments/assets/d6a910ec-550d-4944-b484-b797c4df5364)
+
+
