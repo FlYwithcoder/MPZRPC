@@ -1,5 +1,5 @@
 # mpzrpc
-muduo &amp;&amp; protobuf &amp; rpc
+muduo &amp; protobuf &amp; rpc
 
 ## 背景
 #### 集群的缺点：
